@@ -541,7 +541,6 @@ Potential extensions:
 
 ## Hannah Fathi
 
-**M.Sc. Artificial Intelligence Student**
 
 Research Interests:
 
