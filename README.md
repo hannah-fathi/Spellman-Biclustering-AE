@@ -539,16 +539,7 @@ Potential extensions:
 
 # Author
 
-## Hannah Fathi
-
-
-Research Interests:
-
-* Bioinformatics
-* Graph Neural Networks
-* Deep Learning
-* Computer Vision
-* Machine Learning
+**Hannah Fathi**: Medical AI · Computer Vision · Explainable AI · Reproducible research
 
 ---
 
